@@ -1,5 +1,9 @@
 ### toolsForPythonDevs
 
+<div align="center">
+<img src="media/sm2023.svg" alt="Datayako Logo" width="400px">
+</div>
+
 When working with Python, there are several popular and useful tools that can help you with various aspects of development, testing, deployment, and project management. Here are some examples:
 
 1. **Version Control:**
